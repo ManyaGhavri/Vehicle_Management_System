@@ -19,25 +19,28 @@ The ***Vehicle Management System*** is a Python-based GUI application for managi
 
 
 
-![result](https://github.com/user-attachments/assets/95e736ed-a3d7-4466-aaf5-f3ee1219ac6b)
+![result](https://raw.githubusercontent.com/ManyaGhavri/Vehicle_Management_System/main/result.png)
 
 
 
 
 
 
-![all vehicles](https://github.com/user-attachments/assets/1c64900f-82cc-4158-a4b3-9a49fcd1a9ef)
+
+
+![All Vehicles](https://raw.githubusercontent.com/ManyaGhavri/Vehicle_Management_System/main/all%20vehicles.png)
 
 
 
 
-![add](https://github.com/user-attachments/assets/9ae78a01-c59c-40d9-a4f6-44d1072d362b)
+![Add](https://raw.githubusercontent.com/ManyaGhavri/Vehicle_Management_System/main/add.png)
 
 
 
 
 
-![remove](https://github.com/user-attachments/assets/ec92f6b9-c50c-4f35-8a29-b99540db0c4f)
+![Remove](https://raw.githubusercontent.com/ManyaGhavri/Vehicle_Management_System/main/remove.png)
+
 
 ## 👩‍💻Developer
 - **Manya Ghavri**
